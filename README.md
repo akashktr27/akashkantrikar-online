@@ -3,7 +3,7 @@
 A brief information about me and my curriculam and past experinces.
 
 ## Deployment
-The application is deployed on [www.akashkantrikar.online](https://akashkantrikar.online).
+The application is deployed on [www.akashkantrikar.live](https://akashkantrikar.online)
 
 
 ## Application Mode
